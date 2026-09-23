@@ -1,25 +1,24 @@
 # Cloud Budget Guard
 
-> Cloud budget guardrails with anomaly alerts and auto-remediation
+Cloud budget guardrails with anomaly alerts and auto-remediation across AWS, Azure and GCP.
 
-Cloud budget guardrails with anomaly alerts and auto-remediation.
-
-**Live:** https://ziontechgroup.com/cloud-budget-guard/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+**Live app:** https://zion-support.github.io/cloud-budget-guard/ · **GitHub:** https://github.com/Zion-support/cloud-budget-guard
 
 ## Features
-- Per-team and per-project budget guardrails
-- Real-time anomaly alerts before bill shock
-- Auto-remediation: stop idle resources, enforce tags
-- Forecast vs actual tracking with Slack/email digests
+- Per-team and per-service budgets
+- Anomaly alerts with root-cause hints
+- Auto-remediation: stop idle resources, rightsizing tickets
 
 ## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [Contract Obligation Tracker](https://github.com/Zion-support/contract-obligation-tracker) — https://ziontechgroup.com/contract-obligation-tracker/
-- [AI Meeting Notes Copilot](https://github.com/Zion-support/ai-meeting-notes-copilot) — https://ziontechgroup.com/ai-meeting-notes-copilot/
-- [Employee Engagement Pulse](https://github.com/Zion-support/employee-engagement-pulse) — https://ziontechgroup.com/employee-engagement-pulse/
-- [Partner Referral Tracker](https://github.com/Zion-support/partner-referral-tracker) — https://ziontechgroup.com/partner-referral-tracker/
-- [Incident Comms Writer](https://github.com/Zion-support/incident-comms-writer) — https://ziontechgroup.com/incident-comms-writer/
+- 🏠 Homepage: https://ziontechgroup.com
+- 🌐 App Showcase: https://zion-support.github.io/apps/
+- 🧭 Master directory: https://github.com/Zion-support/zion-app-network
+- 🔗 Interlinks: see [NETWORK.md](NETWORK.md)
+
+## Related apps
+- [Cost Anomaly Detector](https://zion-support.github.io/cost-anomaly-detector/)
+- [FinOps Spend Analyzer](https://zion-support.github.io/finops-spend-analyzer/)
+- [IT Staffing Calculator](https://zion-support.github.io/it-staffing-calculator/)
 
 ---
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group · [Book a Discovery Call](https://ziontechgroup.com/discovery/)
